@@ -5,6 +5,7 @@ pkgver=1.3.7
 pkgrel=1
 pkgdesc="A lightweight and highly-configurable window manager"
 url="http://www.fluxbox.org"
+arch=('x86_64')
 license=('MIT')
 depends=('libxft' 'libxpm' 'libxinerama' 'libxrandr' 'imlib2' 'fribidi')
 options=('!makeflags')
